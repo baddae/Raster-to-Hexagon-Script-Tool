@@ -46,7 +46,7 @@ Type: Required
 
 ## Dependencies
 
-Ensure you have the necessary libraries installed: 
+Ensure you have the necessary libraries installed:  The `h3` library is a third-party Python library, so you may have to clone your ArcGIS Pro Python environment in order to properly install the library and get it working in ArcGIS Pro.
 - `arcpy`
 - `h3`
 - `numpy`
